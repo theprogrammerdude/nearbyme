@@ -1,8 +1,4 @@
-Here’s a clean `README.md` you can use for your **ATM / Bank / Pharmacy Finder PWA** project 🚀
 
----
-
-````markdown
 # 🗺️ ATM / Bank / Pharmacy Finder (React + Leaflet + PWA)
 
 A Progressive Web App (PWA) that helps users find **nearby ATMs, banks, and pharmacies** on an interactive map.  
